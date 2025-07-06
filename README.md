@@ -1,8 +1,7 @@
 <h2>
   NestJS Starter 
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="12" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="32" alt="Nest Logo" /></a>
 </h2>
-## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
